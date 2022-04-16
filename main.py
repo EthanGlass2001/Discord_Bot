@@ -3,7 +3,7 @@ import random
 
 
 
-TOKEN = 'OTY0NjgyNTI1MjQwODgxMTgy.YloMnA.IYXbFFInzD3tlaHUkFwWwQTe02s'
+TOKEN = 'OTY0NjgyNTI1MjQwODgxMTgy.YloMnA.LbqcSHe7ntHjwl6f_OftIIQ7RW0'
 
 client = discord.Client()
 
